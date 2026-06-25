@@ -40,3 +40,17 @@ dataset to identify key factors driving employee attrition.
 - Monitor and limit excessive overtime
 - Implement retention programs for employees in years 1-5
 - Focus engagement efforts on younger workforce segments
+
+- ## Visualizations
+
+### Attrition Distribution
+![Attrition Distribution](image_2026-06-25_132211444.png)
+
+### Age Distribution by Attrition
+![Age Distribution](image_2026-06-25_132224872.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](image_2026-06-25_132229325.png)
+
+### Years at Company by Attrition
+![Years at Company](image_2026-06-25_132238370.png)
